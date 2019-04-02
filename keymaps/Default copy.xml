@@ -29,6 +29,7 @@
     <keyboard-shortcut first-keystroke="meta alt o" />
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
+  <action id="InsertLiveTemplate" />
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -40,5 +41,8 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="VimInsertExitMode">
+    <keyboard-shortcut first-keystroke="meta j" />
   </action>
 </keymap>
