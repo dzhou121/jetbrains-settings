@@ -1,23 +1,51 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
-  <action id="EditorCutLineEnd" />
-  <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="meta alt o" />
-    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="NextDiff">
-    <keyboard-shortcut first-keystroke="f7" />
-    <keyboard-shortcut first-keystroke="ctrl j" />
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="PreviousDiff">
-    <keyboard-shortcut first-keystroke="shift f7" />
-    <keyboard-shortcut first-keystroke="ctrl k" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
-    <mouse-shortcut keystroke="control button2" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl meta m" />
   </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl meta n" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="SearchEverywhere.SelectItem">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="ToggleFullScreen" />
 </keymap>
