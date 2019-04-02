@@ -1,0 +1,44 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="/usr/local/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.15/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages/pinyin-0.2.5-py2.7.egg" type="simple" />
+            <root url="jar:///usr/local/lib/python2.7/site-packages/ipaddr-2.1.11-py2.7.egg!/" type="simple" />
+            <root url="jar:///usr/local/lib/python2.7/site-packages/python_memcached-1.53-py2.7.egg!/" type="simple" />
+            <root url="jar:///usr/local/lib/python2.7/site-packages/MySQL_python-1.2.5-py2.7-macosx-10.10-x86_64.egg!/" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages/celery_with_redis-3.0-py2.7.egg" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages/WTForms-2.0.2-py2.7.egg" type="simple" />
+            <root url="jar:///usr/local/lib/python2.7/site-packages/python_dateutil-2.4.1-py2.7.egg!/" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages/yaypi_python-1.0-py2.7.egg" type="simple" />
+            <root url="file:///usr/local/Cellar/protobuf/3.1.0/libexec/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages/gtk-2.0" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/GoLand2018.3/python_stubs/-1199944087" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
