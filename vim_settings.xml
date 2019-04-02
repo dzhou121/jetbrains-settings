@@ -140,7 +140,7 @@
         <mark key="." line="354" column="51" />
         <mark key="^" line="296" column="42" />
       </file>
-      <file name="$USER_HOME$/cosmos/bifrost/chat_test.go" timestamp="1554222458695">
+      <file name="$USER_HOME$/cosmos/bifrost/chat_test.go" timestamp="1554223807702">
         <mark key="[" line="56" column="40" />
         <mark key="]" line="56" column="40" />
         <mark key="." line="56" column="40" />
@@ -192,12 +192,12 @@
         <mark key="^" line="150" column="19" />
         <mark key="." line="150" column="19" />
       </file>
-      <file name="$USER_HOME$/go/src/galaxy/db/api.go" timestamp="1554222236776">
+      <file name="$USER_HOME$/go/src/galaxy/db/api.go" timestamp="1554223501559">
         <mark key="'" line="749" column="27" />
-        <mark key="[" line="767" column="15" />
-        <mark key="]" line="767" column="33" />
-        <mark key="." line="767" column="33" />
-        <mark key="^" line="767" column="33" />
+        <mark key="[" line="774" column="41" />
+        <mark key="]" line="774" column="58" />
+        <mark key="." line="774" column="58" />
+        <mark key="^" line="774" column="58" />
       </file>
       <file name="$USER_HOME$/locidb/src/lib.rs" timestamp="1553270744124">
         <mark key="[" line="0" column="0" />
@@ -254,12 +254,12 @@
         <mark key="." line="518" column="24" />
         <mark key="^" line="518" column="24" />
       </file>
-      <file name="$USER_HOME$/go/src/tardis/rpc/chat.proto" timestamp="1554221238822">
+      <file name="$USER_HOME$/go/src/tardis/rpc/chat.proto" timestamp="1554223889471">
         <mark key="'" line="45" column="20" />
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="16" />
+        <mark key="[" line="55" column="10" />
+        <mark key="]" line="55" column="10" />
+        <mark key="." line="55" column="10" />
+        <mark key="^" line="55" column="10" />
       </file>
       <file name="$USER_HOME$/locidb/src/server/mod.rs" timestamp="1553270799537">
         <mark key="[" line="0" column="15" />
@@ -267,12 +267,8 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/go/src/galaxy/api/chat.go" timestamp="1554222324723">
-        <mark key="'" line="115" column="18" />
-        <mark key="[" line="50" column="26" />
-        <mark key="]" line="50" column="37" />
-        <mark key="." line="50" column="37" />
-        <mark key="^" line="50" column="37" />
+      <file name="$USER_HOME$/go/src/galaxy/api/chat.go" timestamp="1554223913113">
+        <mark key="'" line="116" column="18" />
       </file>
       <file name="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" timestamp="1554136999688">
         <mark key="'" line="138" column="43" />
@@ -419,10 +415,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Channels</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Channels</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW5hbnRfaWRcPg==</text>
@@ -431,34 +427,34 @@
         <text encoding="base64">CWVyciA9IHJwY0Nvbm4uQ2FsbChHZXRPcGVuQ2hhbm5lbHMsIGF1dGhUb2tlbiwgJmNoYW5uZWxMaXN0KQoJYXNzZXJ0Lk5pbCh0LCBlcnIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlXaGVyZSgiY2hhdF9ncm91cF9tZW1iZXJzLmxlZnRfdXVpZCA9ID8iLCAiIikuCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkidGVuYW50X2lkIjogc2lwdXNlci5UZW5hbnRJRCwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CmZ1bmMgR2V0T3BlbkNoYW5uZWxzKHVzZXIgc3RyaW5nKSBbXSpDaGF0Q2hhbm5lbCB7Cgl2YXIgY2hhbm5lbHMgW10qQ2hhdENoYW5uZWwKCWRiLkpvaW5zKCJKT0lOIGNoYXRfZ3JvdXBfbWVtYmVycyBtIE9OIG0uZ3JvdXBfdXVpZCA9IGNoYXRfY2hhbm5lbHMudXVpZCIpLgoJCVdoZXJlKCJjaGF0X2dyb3VwX21lbWJlcnMubWVtYmVyID0gPyIsIHVzZXIpLgoJCVdoZXJlKCJjaGF0X2dyb3VwX21lbWJlcnMubGVmdF91dWlkID0gPyIsICIiKS4KCQlXaGVyZSgiZGVsZXRlZCA9ID8iLCAiIikuCgkJRmluZCgmY2hhbm5lbHMpCglyZXR1cm4gY2hhbm5lbHMKfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CQkJWFhYX05vVW5rZXllZExpdGVyYWw6IHN0cnVjdHt9e30sCgkJCVhYWF91bnJlY29nbml6ZWQ6ICAgICBuaWwsCgkJCVhYWF9zaXplY2FjaGU6ICAgICAgICAwLAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">CQlXaGVyZSgiY2hhdF9ncm91cF9tZW1iZXJzLmxlZnRfdXVpZCA9ID8iLCAiIikuCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkidGVuYW50X2lkIjogc2lwdXNlci5UZW5hbnRJRCwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CmZ1bmMgR2V0T3BlbkNoYW5uZWxzKHVzZXIgc3RyaW5nKSBbXSpDaGF0Q2hhbm5lbCB7Cgl2YXIgY2hhbm5lbHMgW10qQ2hhdENoYW5uZWwKCWRiLkpvaW5zKCJKT0lOIGNoYXRfZ3JvdXBfbWVtYmVycyBtIE9OIG0uZ3JvdXBfdXVpZCA9IGNoYXRfY2hhbm5lbHMudXVpZCIpLgoJCVdoZXJlKCJjaGF0X2dyb3VwX21lbWJlcnMubWVtYmVyID0gPyIsIHVzZXIpLgoJCVdoZXJlKCJjaGF0X2dyb3VwX21lbWJlcnMubGVmdF91dWlkID0gPyIsICIiKS4KCQlXaGVyZSgiZGVsZXRlZCA9ID8iLCAiIikuCgkJRmluZCgmY2hhbm5lbHMpCglyZXR1cm4gY2hhbm5lbHMKfQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJWFhYX05vVW5rZXllZExpdGVyYWw6IHN0cnVjdHt9e30sCgkJCVhYWF91bnJlY29nbml6ZWQ6ICAgICBuaWwsCgkJCVhYWF9zaXplY2FjaGU6ICAgICAgICAwLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">bWVzc2FnZSBDaGFubmVscyB7Cg==</text>
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhciBjaGFubmVsIENoYXRDaGFubmVsCglkYi5XaGVyZSgidXVpZCA9ID8iLCBtZW1iZXIuR3JvdXBVVUlEKS4KCQlXaGVyZSgiZGVsZXRlZCA9ID8iLCAiIikuCgkJRmlyc3QoJmNoYW5uZWwpCg==</text>
+        <text encoding="base64">bWVzc2FnZSBDaGFubmVscyB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlKb2lucygiSk9JTiBjaGF0X2NoYW5uZWxzIG9uIGNoYXRfY2hhbm5lbHMuIiksCg==</text>
+        <text encoding="base64">CXZhciBjaGFubmVsIENoYXRDaGFubmVsCglkYi5XaGVyZSgidXVpZCA9ID8iLCBtZW1iZXIuR3JvdXBVVUlEKS4KCQlXaGVyZSgiZGVsZXRlZCA9ID8iLCAiIikuCgkJRmlyc3QoJmNoYW5uZWwpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
@@ -501,11 +497,11 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action Forward</entry>
-        <entry>action GotoFile</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoNextError</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
