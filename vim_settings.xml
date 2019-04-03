@@ -140,11 +140,11 @@
         <mark key="." line="354" column="51" />
         <mark key="^" line="296" column="42" />
       </file>
-      <file name="$USER_HOME$/cosmos/bifrost/chat_test.go" timestamp="1554213463182">
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="28" column="20" />
-        <mark key="." line="28" column="20" />
-        <mark key="^" line="28" column="20" />
+      <file name="$USER_HOME$/cosmos/bifrost/chat_test.go" timestamp="1554223807702">
+        <mark key="[" line="56" column="40" />
+        <mark key="]" line="56" column="40" />
+        <mark key="." line="56" column="40" />
+        <mark key="^" line="56" column="39" />
       </file>
       <file name="$USER_HOME$/go/src/galaxy/core/bridge.go" timestamp="1553183928684">
         <mark key="'" line="170" column="23" />
@@ -153,11 +153,12 @@
         <mark key="^" line="47" column="32" />
         <mark key="." line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/cosmos/bifrost/chat.go" timestamp="1554134009816">
-        <mark key="'" line="18" column="30" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/cosmos/bifrost/chat.go" timestamp="1554221345311">
+        <mark key="'" line="21" column="30" />
+        <mark key="[" line="54" column="53" />
+        <mark key="]" line="54" column="52" />
+        <mark key="." line="54" column="52" />
+        <mark key="^" line="54" column="52" />
       </file>
       <file name="$USER_HOME$/cosmos/bifrost/cmd/bifrost/bifrost.go" timestamp="1554117543748">
         <mark key="[" line="23" column="40" />
@@ -191,15 +192,12 @@
         <mark key="^" line="150" column="19" />
         <mark key="." line="150" column="19" />
       </file>
-      <file name="$USER_HOME$/aura/aura/api/fax.py" timestamp="1554214174119">
-        <mark key="'" line="583" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/galaxy/db/api.go" timestamp="1554202246472">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="701" column="17" />
-        <mark key="]" line="701" column="17" />
-        <mark key="^" line="701" column="17" />
-        <mark key="." line="701" column="17" />
+      <file name="$USER_HOME$/go/src/galaxy/db/api.go" timestamp="1554223501559">
+        <mark key="'" line="749" column="27" />
+        <mark key="[" line="774" column="41" />
+        <mark key="]" line="774" column="58" />
+        <mark key="." line="774" column="58" />
+        <mark key="^" line="774" column="58" />
       </file>
       <file name="$USER_HOME$/locidb/src/lib.rs" timestamp="1553270744124">
         <mark key="[" line="0" column="0" />
@@ -256,14 +254,12 @@
         <mark key="." line="518" column="24" />
         <mark key="^" line="518" column="24" />
       </file>
-      <file name="$USER_HOME$/go/src/tardis/rpc/chat.pb.go" timestamp="1554132845720">
-        <mark key="'" line="295" column="56" />
-      </file>
-      <file name="$USER_HOME$/go/src/tardis/rpc/chat.proto" timestamp="1554131080455">
-        <mark key="'" line="6" column="49" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/go/src/tardis/rpc/chat.proto" timestamp="1554223889471">
+        <mark key="'" line="45" column="20" />
+        <mark key="[" line="55" column="10" />
+        <mark key="]" line="55" column="10" />
+        <mark key="." line="55" column="10" />
+        <mark key="^" line="55" column="10" />
       </file>
       <file name="$USER_HOME$/locidb/src/server/mod.rs" timestamp="1553270799537">
         <mark key="[" line="0" column="15" />
@@ -271,12 +267,8 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/go/src/galaxy/api/chat.go" timestamp="1554201864036">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="73" column="34" />
-        <mark key="]" line="73" column="39" />
-        <mark key="." line="73" column="39" />
-        <mark key="^" line="73" column="39" />
+      <file name="$USER_HOME$/go/src/galaxy/api/chat.go" timestamp="1554223913113">
+        <mark key="'" line="116" column="18" />
       </file>
       <file name="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" timestamp="1554136999688">
         <mark key="'" line="138" column="43" />
@@ -292,12 +284,12 @@
         <mark key="^" line="396" column="44" />
         <mark key="." line="396" column="44" />
       </file>
-      <file name="$USER_HOME$/go/src/galaxy/db/models.go" timestamp="1554202134560">
-        <mark key="'" line="372" column="42" />
-        <mark key="[" line="529" column="31" />
-        <mark key="]" line="529" column="35" />
-        <mark key="^" line="529" column="35" />
-        <mark key="." line="529" column="35" />
+      <file name="$USER_HOME$/go/src/galaxy/db/models.go" timestamp="1554219949224">
+        <mark key="'" line="565" column="9" />
+        <mark key="[" line="540" column="9" />
+        <mark key="]" line="540" column="11" />
+        <mark key="." line="540" column="11" />
+        <mark key="^" line="540" column="11" />
       </file>
       <file name="$USER_HOME$/aura/aura/db/api.py" timestamp="1553511981297">
         <mark key="[" line="2007" column="0" />
@@ -320,19 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="49" filename="$USER_HOME$/go/src/galaxy/api/api.go" />
-      <jump line="70" column="39" filename="$USER_HOME$/go/src/galaxy/api/api.go" />
-      <jump line="165" column="43" filename="$USER_HOME$/go/src/galaxy/api/api.go" />
-      <jump line="961" column="55" filename="$USER_HOME$/go/src/galaxy/api/api.go" />
-      <jump line="150" column="31" filename="$USER_HOME$/go/src/galaxy/api/api.go" />
-      <jump line="411" column="23" filename="$USER_HOME$/go/src/galaxy/api/api.go" />
-      <jump line="284" column="31" filename="$USER_HOME$/go/src/galaxy/api/api.go" />
-      <jump line="507" column="16" filename="$USER_HOME$/go/src/galaxy/api/api.go" />
-      <jump line="646" column="17" filename="$USER_HOME$/aura/aura/api/sip_user.py" />
-      <jump line="586" column="8" filename="$USER_HOME$/aura/aura/api/sip_user.py" />
-      <jump line="330" column="32" filename="$USER_HOME$/aura/aura/api/sip_user.py" />
-      <jump line="327" column="32" filename="$USER_HOME$/aura/aura/api/sip_user.py" />
-      <jump line="323" column="32" filename="$USER_HOME$/aura/aura/api/sip_user.py" />
       <jump line="312" column="4" filename="$USER_HOME$/go/src/tardis/module/presence/server.go" />
       <jump line="317" column="23" filename="$USER_HOME$/go/src/tardis/module/presence/server.go" />
       <jump line="332" column="38" filename="$USER_HOME$/go/src/tardis/module/presence/server.go" />
@@ -419,47 +398,60 @@
       <jump line="206" column="20" filename="$USER_HOME$/go/src/galaxy/utils/utils.go" />
       <jump line="74" column="4" filename="$USER_HOME$/go/src/galaxy/db/api.go" />
       <jump line="42" column="0" filename="$USER_HOME$/go/src/galaxy/db/api.go" />
-      <jump line="583" column="0" filename="$USER_HOME$/aura/aura/api/fax.py" />
+      <jump line="547" column="9" filename="$USER_HOME$/go/src/galaxy/db/models.go" />
+      <jump line="219" column="4" filename="$USER_HOME$/go/src/galaxy/db/api.go" />
+      <jump line="101" column="21" filename="$USER_HOME$/go/src/galaxy/api/chat.go" />
+      <jump line="706" column="4" filename="$USER_HOME$/go/src/galaxy/db/api.go" />
+      <jump line="32" column="23" filename="$USER_HOME$/go/src/tardis/rpc/chat.proto" />
+      <jump line="46" column="30" filename="$USER_HOME$/go/src/tardis/rpc/chat.proto" />
+      <jump line="7" column="0" filename="$USER_HOME$/go/src/tardis/rpc/chat.proto" />
+      <jump line="732" column="16" filename="$USER_HOME$/go/src/galaxy/db/api.go" />
+      <jump line="719" column="25" filename="$USER_HOME$/go/src/galaxy/db/api.go" />
+      <jump line="37" column="0" filename="$USER_HOME$/go/src/tardis/rpc/chat.proto" />
+      <jump line="44" column="20" filename="$USER_HOME$/go/src/tardis/rpc/chat.proto" />
+      <jump line="749" column="27" filename="$USER_HOME$/go/src/galaxy/db/api.go" />
+      <jump line="41" column="20" filename="$USER_HOME$/go/src/galaxy/api/chat.go" />
+      <jump line="110" column="18" filename="$USER_HOME$/go/src/galaxy/api/chat.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>time.Now()</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>time.Now()</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW5hbnRfaWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlncm91cCA6PSBmbXQuU3ByaW50ZigiJXM6JXMiLCBmcm9tLlVVSUQsIHRvLlVVSUQpCg==</text>
+        <text encoding="base64">CWVyciA9IHJwY0Nvbm4uQ2FsbChHZXRPcGVuQ2hhbm5lbHMsIGF1dGhUb2tlbiwgJmNoYW5uZWxMaXN0KQoJYXNzZXJ0Lk5pbCh0LCBlcnIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZ3JvdXAK</text>
+        <text encoding="base64">CQkJWFhYX05vVW5rZXllZExpdGVyYWw6IHN0cnVjdHt9e30sCgkJCVhYWF91bnJlY29nbml6ZWQ6ICAgICBuaWwsCgkJCVhYWF9zaXplY2FjaGU6ICAgICAgICAwLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlXaGVyZSgiY2hhdF9ncm91cF9tZW1iZXJzLmxlZnRfdXVpZCA9ID8iLCAiIikuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW0uQ3JlYXRlKCkK</text>
+        <text encoding="base64">CQkidGVuYW50X2lkIjogc2lwdXNlci5UZW5hbnRJRCwK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CXRva2VuLCBlcnIgOj0gand0LlBhcnNlKHJlcS5BdXRoVG9rZW4sIGZ1bmModG9rZW4gKmp3dC5Ub2tlbikgKGludGVyZmFjZXt9LCBlcnJvcikgewoJCS8vIERvbid0IGZvcmdldCB0byB2YWxpZGF0ZSB0aGUgYWxnIGlzIHdoYXQgeW91IGV4cGVjdDoKCQlpZiBfLCBvayA6PSB0b2tlbi5NZXRob2QuKCpqd3QuU2lnbmluZ01ldGhvZEhNQUMpOyAhb2sgewoJCQlyZXR1cm4gbmlsLCBmbXQuRXJyb3JmKCJVbmV4cGVjdGVkIHNpZ25pbmcgbWV0aG9kOiAldiIsIHRva2VuLkhlYWRlclsiYWxnIl0pCgkJfQoKCQkvLyBobWFjU2FtcGxlU2VjcmV0IGlzIGEgW11ieXRlIGNvbnRhaW5pbmcgeW91ciBzZWNyZXQsIGUuZy4gW11ieXRlKCJteV9zZWNyZXRfa2V5IikKCQlyZXR1cm4gand0U2VjcmV0LCBuaWwKCX0pCgoJaWYgY2xhaW1zLCBvayA6PSB0b2tlbi5DbGFpbXMuKGp3dC5NYXBDbGFpbXMpOyBvayAmJiB0b2tlbi5WYWxpZCB7CgkJZm10LlByaW50bG4oY2xhaW1zWyJ1c2VyIl0pCgkJcmV0dXJuICZycGMuU2VuZE1lc3NhZ2VSZXNwb25zZXt9LCBuaWwKCX0KCglyZXR1cm4gbmlsLCBzdGF0dXMuRXJyb3IoNDAxLCBlcnIuRXJyb3IoKSk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CmZ1bmMgR2V0T3BlbkNoYW5uZWxzKHVzZXIgc3RyaW5nKSBbXSpDaGF0Q2hhbm5lbCB7Cgl2YXIgY2hhbm5lbHMgW10qQ2hhdENoYW5uZWwKCWRiLkpvaW5zKCJKT0lOIGNoYXRfZ3JvdXBfbWVtYmVycyBtIE9OIG0uZ3JvdXBfdXVpZCA9IGNoYXRfY2hhbm5lbHMudXVpZCIpLgoJCVdoZXJlKCJjaGF0X2dyb3VwX21lbWJlcnMubWVtYmVyID0gPyIsIHVzZXIpLgoJCVdoZXJlKCJjaGF0X2dyb3VwX21lbWJlcnMubGVmdF91dWlkID0gPyIsICIiKS4KCQlXaGVyZSgiZGVsZXRlZCA9ID8iLCAiIikuCgkJRmluZCgmY2hhbm5lbHMpCglyZXR1cm4gY2hhbm5lbHMKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWlmIAo=</text>
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJWFhYX05vVW5rZXllZExpdGVyYWw6IHN0cnVjdHt9e30sCgkJCVhYWF91bnJlY29nbml6ZWQ6ICAgICBuaWwsCgkJCVhYWF9zaXplY2FjaGU6ICAgICAgICAwLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmlsLCBlcnJvcnMua2tra2trawo=</text>
+        <text encoding="base64">bWVzc2FnZSBDaGFubmVscyB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhciBjaGFubmVsIENoYXRDaGFubmVsCglkYi5XaGVyZSgidXVpZCA9ID8iLCBtZW1iZXIuR3JvdXBVVUlEKS4KCQlXaGVyZSgiZGVsZXRlZCA9ID8iLCAiIikuCgkJRmlyc3QoJmNoYW5uZWwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoAction</text>
@@ -502,13 +494,13 @@
         <entry>action OpenFile</entry>
         <entry>action GoToFile</entry>
         <entry encoding="base64">c291cmNlIA==</entry>
-        <entry>action Forward</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoPreviousError</entry>
-        <entry>action GotoFile</entry>
+        <entry>action Forward</entry>
         <entry>action GotoNextError</entry>
-        <entry>action GotoDeclaration</entry>
+        <entry>action GotoFile</entry>
         <entry>action Back</entry>
+        <entry>action GotoDeclaration</entry>
         <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
