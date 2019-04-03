@@ -62,6 +62,12 @@
         <mark key="." line="211" column="33" />
         <mark key="^" line="211" column="33" />
       </file>
+      <file name="$USER_HOME$/web-whitelabel/whitelabel/static/js/account/account-address-1.0.js" timestamp="1554280144688">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+      </file>
       <file name="$USER_HOME$/cosmos/go.mod" timestamp="1554132399894">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -146,6 +152,9 @@
         <mark key="." line="56" column="40" />
         <mark key="^" line="56" column="39" />
       </file>
+      <file name="vim_settings.xml" timestamp="1554279460261">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/galaxy/core/bridge.go" timestamp="1553183928684">
         <mark key="'" line="170" column="23" />
         <mark key="[" line="47" column="31" />
@@ -159,6 +168,9 @@
         <mark key="]" line="54" column="52" />
         <mark key="." line="54" column="52" />
         <mark key="^" line="54" column="52" />
+      </file>
+      <file name="/Python Console" timestamp="1554280013861">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cosmos/bifrost/cmd/bifrost/bifrost.go" timestamp="1554117543748">
         <mark key="[" line="23" column="40" />
@@ -192,23 +204,21 @@
         <mark key="^" line="150" column="19" />
         <mark key="." line="150" column="19" />
       </file>
+      <file name="$USER_HOME$/aura/aura/api/fax.py" timestamp="1554214174119">
+        <mark key="'" line="583" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/galaxy/db/api.go" timestamp="1554223501559">
         <mark key="'" line="749" column="27" />
         <mark key="[" line="774" column="41" />
         <mark key="]" line="774" column="58" />
-        <mark key="." line="774" column="58" />
         <mark key="^" line="774" column="58" />
+        <mark key="." line="774" column="58" />
       </file>
       <file name="$USER_HOME$/locidb/src/lib.rs" timestamp="1553270744124">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/go/pkg/mod/google.golang.org/grpc@v1.19.1/status/status.go" timestamp="1554134543966">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="97" />
       </file>
       <file name="$USER_HOME$/locidb/Cargo.toml" timestamp="1553269989737">
         <mark key="[" line="5" column="7" />
@@ -223,7 +233,7 @@
         <mark key="." line="108" column="26" />
         <mark key="^" line="225" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554137997193">
+      <file name="/Dummy.txt" timestamp="1554280669609">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -254,6 +264,9 @@
         <mark key="." line="518" column="24" />
         <mark key="^" line="518" column="24" />
       </file>
+      <file name="$USER_HOME$/go/src/tardis/rpc/chat.pb.go" timestamp="1554132845720">
+        <mark key="'" line="295" column="56" />
+      </file>
       <file name="$USER_HOME$/go/src/tardis/rpc/chat.proto" timestamp="1554223889471">
         <mark key="'" line="45" column="20" />
         <mark key="[" line="55" column="10" />
@@ -269,6 +282,10 @@
       </file>
       <file name="$USER_HOME$/go/src/galaxy/api/chat.go" timestamp="1554223913113">
         <mark key="'" line="116" column="18" />
+        <mark key="[" line="73" column="34" />
+        <mark key="]" line="73" column="39" />
+        <mark key="." line="73" column="39" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" timestamp="1554136999688">
         <mark key="'" line="138" column="43" />
@@ -288,8 +305,8 @@
         <mark key="'" line="565" column="9" />
         <mark key="[" line="540" column="9" />
         <mark key="]" line="540" column="11" />
-        <mark key="." line="540" column="11" />
         <mark key="^" line="540" column="11" />
+        <mark key="." line="540" column="11" />
       </file>
       <file name="$USER_HOME$/aura/aura/db/api.py" timestamp="1553511981297">
         <mark key="[" line="2007" column="0" />
@@ -415,7 +432,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;</text>
+        <text>toggleSpinner</text>
       </register>
       <register name="-" type="4">
         <text>&quot;&quot;</text>
@@ -423,8 +440,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW5hbnRfaWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CWVyciA9IHJwY0Nvbm4uQ2FsbChHZXRPcGVuQ2hhbm5lbHMsIGF1dGhUb2tlbiwgJmNoYW5uZWxMaXN0KQoJYXNzZXJ0Lk5pbCh0LCBlcnIpCg==</text>
+      <register name="0" type="4">
+        <text>toggleSpinner</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJWFhYX05vVW5rZXllZExpdGVyYWw6IHN0cnVjdHt9e30sCgkJCVhYWF91bnJlY29nbml6ZWQ6ICAgICBuaWwsCgkJCVhYWF9zaXplY2FjaGU6ICAgICAgICAwLAo=</text>
@@ -454,7 +471,7 @@
         <text encoding="base64">CXZhciBjaGFubmVsIENoYXRDaGFubmVsCglkYi5XaGVyZSgidXVpZCA9ID8iLCBtZW1iZXIuR3JvdXBVVUlEKS4KCQlXaGVyZSgiZGVsZXRlZCA9ID8iLCAiIikuCgkJRmlyc3QoJmNoYW5uZWwpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -494,14 +511,14 @@
         <entry>action OpenFile</entry>
         <entry>action GoToFile</entry>
         <entry encoding="base64">c291cmNlIA==</entry>
+        <entry>action Forward</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoPreviousError</entry>
-        <entry>action Forward</entry>
         <entry>action GotoNextError</entry>
-        <entry>action GotoFile</entry>
-        <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
