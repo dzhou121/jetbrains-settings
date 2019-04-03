@@ -112,6 +112,9 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
+      <file name="/fragment.go" timestamp="1554224176520">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/github.com/crane-editor/crane/editor/buffer.go" timestamp="1542203019447">
         <mark key="'" line="104" column="26" />
         <mark key="[" line="59" column="30" />
@@ -140,7 +143,7 @@
         <mark key="." line="354" column="51" />
         <mark key="^" line="296" column="42" />
       </file>
-      <file name="$USER_HOME$/cosmos/bifrost/chat_test.go" timestamp="1554223807702">
+      <file name="$USER_HOME$/cosmos/bifrost/chat_test.go" timestamp="1554224408502">
         <mark key="[" line="56" column="40" />
         <mark key="]" line="56" column="40" />
         <mark key="." line="56" column="40" />
@@ -223,7 +226,7 @@
         <mark key="." line="108" column="26" />
         <mark key="^" line="225" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554137997193">
+      <file name="/Dummy.txt" timestamp="1554224441669">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
