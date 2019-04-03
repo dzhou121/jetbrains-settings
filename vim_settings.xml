@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/yaypi.voip_number [yaypi]" timestamp="1554299695883">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/tardis/module/presence/ua.go" timestamp="1553507979257">
         <mark key="'" line="241" column="24" />
         <mark key="[" line="174" column="46" />
@@ -72,6 +75,9 @@
         <mark key="^" line="1126" column="39" />
         <mark key="." line="457" column="33" />
       </file>
+      <file name="/yaypi.dom_domain [yaypi]" timestamp="1554302701139">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/cosmos/nucleus/sip/message.go" timestamp="1553081924544">
         <mark key="'" line="460" column="50" />
         <mark key="[" line="639" column="22" />
@@ -85,12 +91,6 @@
         <mark key="]" line="354" column="52" />
         <mark key="." line="354" column="51" />
         <mark key="^" line="296" column="42" />
-      </file>
-      <file name="$USER_HOME$/cosmos/bifrost/chat_test.go" timestamp="1554284450611">
-        <mark key="[" line="56" column="40" />
-        <mark key="]" line="56" column="40" />
-        <mark key="." line="56" column="40" />
-        <mark key="^" line="56" column="39" />
       </file>
       <file name="vim_settings.xml" timestamp="1554280999408">
         <mark key="[" line="0" column="0" />
@@ -107,12 +107,12 @@
         <mark key="^" line="47" column="32" />
         <mark key="." line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/cosmos/bifrost/chat.go" timestamp="1554288372114">
+      <file name="$USER_HOME$/cosmos/bifrost/chat.go" timestamp="1554303376968">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="30" />
-        <mark key="^" line="66" column="30" />
-        <mark key="." line="66" column="30" />
+        <mark key="[" line="65" column="119" />
+        <mark key="]" line="65" column="18" />
+        <mark key="^" line="65" column="18" />
+        <mark key="." line="65" column="18" />
       </file>
       <file name="$USER_HOME$/cosmos/bifrost/cmd/bifrost/bifrost.go" timestamp="1554287912158">
         <mark key="[" line="21" column="0" />
@@ -133,7 +133,7 @@
         <mark key="." line="201" column="53" />
         <mark key="^" line="201" column="53" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554298144499">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554302764474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -161,8 +161,8 @@
         <mark key="." line="774" column="58" />
         <mark key="^" line="774" column="58" />
       </file>
-      <file name="/dummy.sql" timestamp="1554298104809">
-        <mark key="[" line="0" column="32" />
+      <file name="/dummy.sql" timestamp="1554302702035">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
@@ -195,12 +195,12 @@
       <file name="/yay_store.core_order_shipping [store]" timestamp="1554296419161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/tardis/rpc/chat.proto" timestamp="1554286465751">
+      <file name="$USER_HOME$/go/src/tardis/rpc/chat.proto" timestamp="1554304627947">
         <mark key="'" line="9" column="37" />
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="13" column="14" />
-        <mark key="." line="13" column="14" />
-        <mark key="^" line="13" column="14" />
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="29" column="19" />
       </file>
       <file name="$USER_HOME$/go/src/galaxy/api/chat.go" timestamp="1554288531210">
         <mark key="'" line="116" column="18" />
@@ -348,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXR1cm5zXD4=</text>
