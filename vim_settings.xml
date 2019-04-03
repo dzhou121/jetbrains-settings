@@ -10,6 +10,9 @@
         <mark key="." line="176" column="12" />
         <mark key="^" line="176" column="12" />
       </file>
+      <file name="/yay_store.product_inventory_barcode_record [store]" timestamp="1554297913151">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/tardis/route/route.go" timestamp="1553598251284">
         <mark key="'" line="788" column="15" />
         <mark key="[" line="831" column="18" />
@@ -130,10 +133,10 @@
         <mark key="." line="201" column="53" />
         <mark key="^" line="201" column="53" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554297018226">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554298144499">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/aura/aura/api/sip_user.py" timestamp="1553529721232">
         <mark key="'" line="323" column="32" />
@@ -158,8 +161,10 @@
         <mark key="." line="774" column="58" />
         <mark key="^" line="774" column="58" />
       </file>
-      <file name="/dummy.sql" timestamp="1554297127904">
-        <mark key="[" line="0" column="0" />
+      <file name="/dummy.sql" timestamp="1554298104809">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/go/src/galaxy/api/rpc.go" timestamp="1554287692514">
         <mark key="'" line="110" column="0" />
@@ -224,6 +229,9 @@
         <mark key="]" line="540" column="11" />
         <mark key="." line="540" column="11" />
         <mark key="^" line="540" column="11" />
+      </file>
+      <file name="/yay_store.core_order_return_item_barcode [store]" timestamp="1554297881193">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/yay_store.core_order_item_serial [store]" timestamp="1554297000080">
         <mark key="[" line="0" column="0" />
@@ -340,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXR1cm5zXD4=</text>
