@@ -220,6 +220,9 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/web-whitelabel/whitelabel/templates/base.html" timestamp="1554280792375">
+        <mark key="'" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/locidb/Cargo.toml" timestamp="1553269989737">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="6" column="13" />
@@ -329,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="4" filename="$USER_HOME$/go/src/tardis/module/presence/server.go" />
       <jump line="317" column="23" filename="$USER_HOME$/go/src/tardis/module/presence/server.go" />
       <jump line="332" column="38" filename="$USER_HOME$/go/src/tardis/module/presence/server.go" />
       <jump line="337" column="47" filename="$USER_HOME$/go/src/tardis/module/presence/server.go" />
@@ -429,6 +431,7 @@
       <jump line="749" column="27" filename="$USER_HOME$/go/src/galaxy/db/api.go" />
       <jump line="41" column="20" filename="$USER_HOME$/go/src/galaxy/api/chat.go" />
       <jump line="110" column="18" filename="$USER_HOME$/go/src/galaxy/api/chat.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/web-whitelabel/whitelabel/templates/base.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -471,7 +474,7 @@
         <text encoding="base64">CXZhciBjaGFubmVsIENoYXRDaGFubmVsCglkYi5XaGVyZSgidXVpZCA9ID8iLCBtZW1iZXIuR3JvdXBVVUlEKS4KCQlXaGVyZSgiZGVsZXRlZCA9ID8iLCAiIikuCgkJRmlyc3QoJmNoYW5uZWwpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
@@ -515,10 +518,10 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action GotoNextError</entry>
-        <entry>action GotoDeclaration</entry>
         <entry>action Back</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action GotoDeclaration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
