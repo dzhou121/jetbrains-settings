@@ -31,10 +31,10 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/cosmos/asteroid/phone.go" timestamp="1554370797926">
-        <mark key="[" line="172" column="25" />
-        <mark key="]" line="172" column="60" />
-        <mark key="." line="172" column="25" />
+      <file name="$USER_HOME$/cosmos/asteroid/phone.go" timestamp="1554373120713">
+        <mark key="[" line="298" column="0" />
+        <mark key="]" line="298" column="0" />
+        <mark key="." line="298" column="0" />
       </file>
       <file name="/yay_store.product_inventory_barcode_record [store]" timestamp="1554297913151">
         <mark key="[" line="0" column="0" />
@@ -138,12 +138,6 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/cosmos/nucleus/prism/prism.go" timestamp="1554370509353">
-        <mark key="[" line="158" column="38" />
-        <mark key="]" line="158" column="58" />
-        <mark key="^" line="158" column="58" />
-        <mark key="." line="158" column="58" />
-      </file>
       <file name="vim_settings.xml" timestamp="1554280999408">
         <mark key="[" line="0" column="0" />
       </file>
@@ -166,9 +160,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/cosmos/bifrost/cmd/bifrost/bifrost.go" timestamp="1554287912158">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/ansible/roles/galaxy/tasks/compile.yml" timestamp="1554364969296">
         <mark key="[" line="25" column="28" />
@@ -246,7 +240,7 @@
         <mark key="." line="227" column="0" />
         <mark key="^" line="227" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554370119923">
+      <file name="/Dummy.txt" timestamp="1554370820888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -427,8 +421,8 @@
       <jump line="3999" column="61" filename="$USER_HOME$/web-team/yay_team/db/net_xl/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGRpdj5zbGRkZmtqa2xzZDwvZGl2Pgo8cD48L3A+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>prop.ID(value)</text>
@@ -440,34 +434,34 @@
         <text encoding="base64">IHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+        <text encoding="base64">PGRpdj5zbGRkZmtqa2xzZDwvZGl2Pgo8cD48L3A+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci0gaW5jbHVkZV9yb2xlOgogICAgbmFtZTogc3VwZXJ2aXNvcgogIHZhcnM6CiAgICBwcm9ncmFtczoKICAgICAgLSBuYW1lOiBnYWxheHkKICAgICAgICBjb21tYW5kOiBnYWxheHkKICB3aGVuOiBlbnYgPT0gJ3Byb2R1Y3Rpb24nCg==</text>
+        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4oIm5vdGlmeSBtZXNzYWdlIikK</text>
+        <text encoding="base64">Ci0gaW5jbHVkZV9yb2xlOgogICAgbmFtZTogc3VwZXJ2aXNvcgogIHZhcnM6CiAgICBwcm9ncmFtczoKICAgICAgLSBuYW1lOiBnYWxheHkKICAgICAgICBjb21tYW5kOiBnYWxheHkKICB3aGVuOiBlbnYgPT0gJ3Byb2R1Y3Rpb24nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigibm90aWZ5IG1lc3NhZ2UiKQoJCWdvIGMucnBjQ2xpZW50Lk5vdGlmeU1lc3NhZ2UoY29udGV4dC5CYWNrZ3JvdW5kKCksIG1zZ05vdGlmaWNhdGlvbikK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
+        <text encoding="base64">CQkJZm10LlByaW50bG4oIm5vdGlmeSBtZXNzYWdlIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigibm90aWZ5IG1lc3NhZ2UiKQoJCWdvIGMucnBjQ2xpZW50Lk5vdGlmeU1lc3NhZ2UoY29udGV4dC5CYWNrZ3JvdW5kKCksIG1zZ05vdGlmaWNhdGlvbikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihlcnIpCg==</text>
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWVyciA6PSBiaWZyb3N0Lk5ld0NoYXRTZXJ2ZXIoKQoJaWYgZXJyICE9IG5pbCB7CgkJZm10LlByaW50bG4oZXJyKQoJCXJldHVybgoJfQoK</text>
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -508,13 +502,13 @@
         <entry>action GoToFile</entry>
         <entry encoding="base64">c291cmNlIA==</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoNextError</entry>
         <entry>action Forward</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
