@@ -3,6 +3,121 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/web-team/yay_team/templates/store/orders/order-details.html" timestamp="1554297866696">
+        <mark key="'" line="548" column="58" />
+      </file>
+      <file name="$USER_HOME$/go/src/tardis/module/presence/ua.go" timestamp="1553507979257">
+        <mark key="'" line="241" column="24" />
+        <mark key="[" line="174" column="46" />
+        <mark key="]" line="176" column="12" />
+        <mark key="." line="176" column="12" />
+        <mark key="^" line="176" column="12" />
+      </file>
+      <file name="$USER_HOME$/ansible/projects/galaxy/host_vars/aura-eu-west1-b1" timestamp="1554365982061">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554297018226">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/go/src/tardis/route/route.go" timestamp="1553598251284">
+        <mark key="'" line="788" column="15" />
+        <mark key="[" line="831" column="18" />
+        <mark key="]" line="831" column="30" />
+        <mark key="." line="831" column="30" />
+        <mark key="^" line="831" column="30" />
+      </file>
+      <file name="$USER_HOME$/cosmos/bifrost/jsonrpc2/wire.go" timestamp="1554134559702">
+        <mark key="'" line="51" column="19" />
+        <mark key="[" line="51" column="11" />
+        <mark key="]" line="51" column="13" />
+        <mark key="." line="51" column="13" />
+        <mark key="^" line="51" column="13" />
+      </file>
+      <file name="$USER_HOME$/go/src/tardis/rpc/rpc.proto" timestamp="1553871093012">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="41" column="8" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/web-team/yay_team/db/net_xl/models.py" timestamp="1554297895274">
+        <mark key="'" line="3999" column="61" />
+      </file>
+      <file name="$USER_HOME$/cosmos/bifrost/service.go" timestamp="1554288409678">
+        <mark key="'" line="45" column="5" />
+        <mark key="[" line="108" column="23" />
+        <mark key="]" line="108" column="23" />
+        <mark key="." line="108" column="23" />
+        <mark key="^" line="112" column="34" />
+      </file>
+      <file name="$USER_HOME$/ansible/roles/galaxy/tasks/env.yml" timestamp="1554365103312">
+        <mark key="[" line="40" column="23" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="26" />
+        <mark key="^" line="40" column="26" />
+      </file>
+      <file name="$USER_HOME$/go/src/galaxy/core/switchboard.go" timestamp="1554135571456">
+        <mark key="'" line="1366" column="5" />
+        <mark key="[" line="527" column="36" />
+        <mark key="]" line="527" column="36" />
+        <mark key="^" line="302" column="48" />
+        <mark key="." line="527" column="36" />
+      </file>
+      <file name="$USER_HOME$/locidb/src/bin/locidb.rs" timestamp="1553270715922">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
+      <file name="/fragment.go" timestamp="1554224176520">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/github.com/crane-editor/crane/editor/buffer.go" timestamp="1542203019447">
+        <mark key="'" line="104" column="26" />
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="59" column="9" />
+        <mark key="^" line="59" column="9" />
+        <mark key="." line="59" column="9" />
+      </file>
+      <file name="$USER_HOME$/ansible/roles/galaxy/tasks/main.yml" timestamp="1554366243355">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/go/src/galaxy/endpoint/sip/sip.go" timestamp="1554135587379">
+        <mark key="'" line="1083" column="0" />
+        <mark key="[" line="457" column="33" />
+        <mark key="]" line="457" column="33" />
+        <mark key="^" line="1126" column="39" />
+        <mark key="." line="457" column="33" />
+      </file>
+      <file name="$USER_HOME$/ansible/projects/galaxy/deploy.yml" timestamp="1554365637472">
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="39" column="43" />
+        <mark key="." line="39" column="43" />
+        <mark key="^" line="39" column="43" />
+      </file>
+      <file name="$USER_HOME$/cosmos/nucleus/sip/message.go" timestamp="1553081924544">
+        <mark key="'" line="460" column="50" />
+        <mark key="[" line="639" column="22" />
+        <mark key="]" line="640" column="29" />
+        <mark key="^" line="640" column="29" />
+        <mark key="." line="640" column="29" />
+      </file>
+      <file name="$USER_HOME$/go/src/galaxy/api/api.go" timestamp="1553591165751">
+        <mark key="'" line="507" column="16" />
+        <mark key="[" line="354" column="51" />
+        <mark key="]" line="354" column="52" />
+        <mark key="." line="354" column="51" />
+        <mark key="^" line="296" column="42" />
+      </file>
       <file name="vim_settings.xml" timestamp="1554280999408">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,16 +140,6 @@
         <mark key="^" line="66" column="30" />
         <mark key="." line="66" column="30" />
       </file>
-      <file name="$USER_HOME$/web-team/yay_team/templates/store/orders/order-details.html" timestamp="1554297866696">
-        <mark key="'" line="548" column="58" />
-      </file>
-      <file name="$USER_HOME$/go/src/tardis/module/presence/ua.go" timestamp="1553507979257">
-        <mark key="'" line="241" column="24" />
-        <mark key="[" line="174" column="46" />
-        <mark key="]" line="176" column="12" />
-        <mark key="." line="176" column="12" />
-        <mark key="^" line="176" column="12" />
-      </file>
       <file name="$USER_HOME$/cosmos/bifrost/cmd/bifrost/bifrost.go" timestamp="1554287912158">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -47,31 +152,24 @@
         <mark key="^" line="325" column="41" />
         <mark key="." line="325" column="41" />
       </file>
+      <file name="$USER_HOME$/ansible/roles/galaxy/tasks/compile.yml" timestamp="1554364969296">
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+        <mark key="^" line="25" column="31" />
+      </file>
+      <file name="$USER_HOME$/ansible/projects/galaxy/hosts" timestamp="1554365204507">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+      </file>
       <file name="$USER_HOME$/go/src/galaxy/utils/utils.go" timestamp="1554201480887">
         <mark key="'" line="206" column="20" />
         <mark key="[" line="201" column="46" />
         <mark key="]" line="201" column="53" />
         <mark key="." line="201" column="53" />
         <mark key="^" line="201" column="53" />
-      </file>
-      <file name="$USER_HOME$/go/src/tardis/route/route.go" timestamp="1553598251284">
-        <mark key="'" line="788" column="15" />
-        <mark key="[" line="831" column="18" />
-        <mark key="]" line="831" column="30" />
-        <mark key="." line="831" column="30" />
-        <mark key="^" line="831" column="30" />
-      </file>
-      <file name="$USER_HOME$/cosmos/bifrost/jsonrpc2/wire.go" timestamp="1554134559702">
-        <mark key="'" line="51" column="19" />
-        <mark key="[" line="51" column="11" />
-        <mark key="]" line="51" column="13" />
-        <mark key="." line="51" column="13" />
-        <mark key="^" line="51" column="13" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554297018226">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/aura/aura/api/sip_user.py" timestamp="1553529721232">
         <mark key="'" line="323" column="32" />
@@ -80,28 +178,11 @@
         <mark key="^" line="330" column="63" />
         <mark key="." line="330" column="63" />
       </file>
-      <file name="$USER_HOME$/go/src/tardis/rpc/rpc.proto" timestamp="1553871093012">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="41" column="8" />
-        <mark key="." line="0" column="18" />
-      </file>
       <file name="/a.sql" timestamp="1554296520840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/yay_store.core_order [store]" timestamp="1554296874485">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/web-team/yay_team/db/net_xl/models.py" timestamp="1554297895274">
-        <mark key="'" line="3999" column="61" />
-      </file>
-      <file name="$USER_HOME$/cosmos/bifrost/service.go" timestamp="1554288409678">
-        <mark key="'" line="45" column="5" />
-        <mark key="[" line="108" column="23" />
-        <mark key="]" line="108" column="23" />
-        <mark key="." line="108" column="23" />
-        <mark key="^" line="112" column="34" />
       </file>
       <file name="/yay_store.core_order_item [store]" timestamp="1554297111670">
         <mark key="[" line="0" column="0" />
@@ -123,7 +204,7 @@
         <mark key="." line="227" column="0" />
         <mark key="^" line="227" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554296520711">
+      <file name="/Dummy.txt" timestamp="1554366252697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -135,13 +216,6 @@
         <mark key="." line="264" column="33" />
         <mark key="^" line="264" column="33" />
       </file>
-      <file name="$USER_HOME$/go/src/galaxy/core/switchboard.go" timestamp="1554135571456">
-        <mark key="'" line="1366" column="5" />
-        <mark key="[" line="527" column="36" />
-        <mark key="]" line="527" column="36" />
-        <mark key="^" line="302" column="48" />
-        <mark key="." line="527" column="36" />
-      </file>
       <file name="$USER_HOME$/go/src/galaxy/core/callflow.go" timestamp="1554134965525">
         <mark key="'" line="318" column="32" />
         <mark key="[" line="518" column="21" />
@@ -149,12 +223,11 @@
         <mark key="." line="518" column="24" />
         <mark key="^" line="518" column="24" />
       </file>
-      <file name="$USER_HOME$/locidb/src/bin/locidb.rs" timestamp="1553270715922">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
+      <file name="$USER_HOME$/ansible/projects/galaxy/host_vars/aura-eu-west1-c1" timestamp="1554366018154">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
       </file>
       <file name="/yay_store.core_order_shipping [store]" timestamp="1554296419161">
         <mark key="[" line="0" column="0" />
@@ -166,22 +239,12 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="/fragment.go" timestamp="1554224176520">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/go/src/galaxy/api/chat.go" timestamp="1554288531210">
         <mark key="'" line="116" column="18" />
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="0" />
         <mark key="^" line="169" column="26" />
         <mark key="." line="170" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/github.com/crane-editor/crane/editor/buffer.go" timestamp="1542203019447">
-        <mark key="'" line="104" column="26" />
-        <mark key="[" line="59" column="30" />
-        <mark key="]" line="59" column="9" />
-        <mark key="^" line="59" column="9" />
-        <mark key="." line="59" column="9" />
       </file>
       <file name="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" timestamp="1554136999688">
         <mark key="'" line="138" column="43" />
@@ -204,35 +267,14 @@
         <mark key="." line="540" column="11" />
         <mark key="^" line="540" column="11" />
       </file>
-      <file name="$USER_HOME$/go/src/galaxy/endpoint/sip/sip.go" timestamp="1554135587379">
-        <mark key="'" line="1083" column="0" />
-        <mark key="[" line="457" column="33" />
-        <mark key="]" line="457" column="33" />
-        <mark key="^" line="1126" column="39" />
-        <mark key="." line="457" column="33" />
-      </file>
-      <file name="$USER_HOME$/cosmos/nucleus/sip/message.go" timestamp="1553081924544">
-        <mark key="'" line="460" column="50" />
-        <mark key="[" line="639" column="22" />
-        <mark key="]" line="640" column="29" />
-        <mark key="^" line="640" column="29" />
-        <mark key="." line="640" column="29" />
+      <file name="$USER_HOME$/ansible/projects/galaxy/host_vars/aura-eu-west1-d1" timestamp="1554366047592">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
       </file>
       <file name="/yay_store.core_order_item_serial [store]" timestamp="1554297000080">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/galaxy/api/api.go" timestamp="1553591165751">
-        <mark key="'" line="507" column="16" />
-        <mark key="[" line="354" column="51" />
-        <mark key="]" line="354" column="52" />
-        <mark key="." line="354" column="51" />
-        <mark key="^" line="296" column="42" />
-      </file>
-      <file name="$USER_HOME$/cosmos/bifrost/chat_test.go" timestamp="1554284450611">
-        <mark key="[" line="56" column="40" />
-        <mark key="]" line="56" column="40" />
-        <mark key="." line="56" column="40" />
-        <mark key="^" line="56" column="39" />
       </file>
       <file name="$USER_HOME$/cosmos/bifrost/jsonrpc2/stream.go" timestamp="1553876429794">
         <mark key="'" line="53" column="21" />
@@ -346,43 +388,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCYXJjb2RlUmVjb3JkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXJldHVybiBuaWwsbmlsCg==</text>
+        <text encoding="base64">Ci0gaW5jbHVkZTogZW52LnltbAogIHdoZW46IGVudiA9PSAncHJvZHVjdGlvbicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4oIm5vdGlmeSBtZXNzYWdlIikK</text>
+        <text encoding="base64">Ci0gaW5jbHVkZV9yb2xlOgogICAgbmFtZTogc3VwZXJ2aXNvcgogIHZhcnM6CiAgICBwcm9ncmFtczoKICAgICAgLSBuYW1lOiBnYWxheHkKICAgICAgICBjb21tYW5kOiBnYWxheHkKICB3aGVuOiBlbnYgPT0gJ3Byb2R1Y3Rpb24nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigibm90aWZ5IG1lc3NhZ2UiKQoJCWdvIGMucnBjQ2xpZW50Lk5vdGlmeU1lc3NhZ2UoY29udGV4dC5CYWNrZ3JvdW5kKCksIG1zZ05vdGlmaWNhdGlvbikK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
+        <text encoding="base64">CQkJZm10LlByaW50bG4oIm5vdGlmeSBtZXNzYWdlIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigibm90aWZ5IG1lc3NhZ2UiKQoJCWdvIGMucnBjQ2xpZW50Lk5vdGlmeU1lc3NhZ2UoY29udGV4dC5CYWNrZ3JvdW5kKCksIG1zZ05vdGlmaWNhdGlvbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihlcnIpCg==</text>
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWVyciA6PSBiaWZyb3N0Lk5ld0NoYXRTZXJ2ZXIoKQoJaWYgZXJyICE9IG5pbCB7CgkJZm10LlByaW50bG4oZXJyKQoJCXJldHVybgoJfQoK</text>
+        <text encoding="base64">CXBhbmljKCJpbXBsZW1lbnQgbWUiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWVyciA6PSBiaWZyb3N0Lk5ld0NoYXRTZXJ2ZXIoKQoJaWYgZXJyICE9IG5pbCB7CgkJZm10LlByaW50bG4oZXJyKQoJCXJldHVybgoJfQo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihlcnIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJwYy5SZWdpc3RlckdhbGF4eVJwY1NlcnZlcihzZXJ2ZXIsIGMpCg==</text>
+        <text encoding="base64">CWVyciA6PSBiaWZyb3N0Lk5ld0NoYXRTZXJ2ZXIoKQoJaWYgZXJyICE9IG5pbCB7CgkJZm10LlByaW50bG4oZXJyKQoJCXJldHVybgoJfQoK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
