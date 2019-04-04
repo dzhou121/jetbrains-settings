@@ -100,6 +100,7 @@
       <file name="/yaypi.voip_number_transfer_loa [yaypi]" timestamp="1554307968037">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/galaxy/core/channel.go" timestamp="1554367973260" />
       <file name="$USER_HOME$/go/src/galaxy/core/switchboard.go" timestamp="1554313275064">
         <mark key="'" line="528" column="28" />
         <mark key="[" line="527" column="36" />
@@ -299,7 +300,7 @@
         <mark key="." line="227" column="0" />
         <mark key="^" line="227" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554314009986">
+      <file name="/Dummy.txt" timestamp="1554365384656">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
