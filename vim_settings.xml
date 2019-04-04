@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/yaypi.voip_number [yaypi]" timestamp="1554299695883">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/cosmos/asteroid/web/web.go" timestamp="1542211453320">
         <mark key="[" line="140" column="55" />
         <mark key="]" line="140" column="5" />
@@ -36,6 +39,9 @@
         <mark key="]" line="265" column="11" />
         <mark key="." line="265" column="11" />
         <mark key="^" line="265" column="11" />
+      </file>
+      <file name="/yay_store.product_inventory_barcode_record [store]" timestamp="1554297913151">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/galaxy/core/shortcode.go" timestamp="1553251095005">
         <mark key="[" line="404" column="40" />
@@ -90,6 +96,9 @@
         <mark key="." line="45" column="41" />
         <mark key="^" line="45" column="41" />
       </file>
+      <file name="/yaypi.voip_number_transfer_loa [yaypi]" timestamp="1554307968037">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/galaxy/core/channel.go" timestamp="1554367973260" />
       <file name="$USER_HOME$/aura/aura/db/models.py" timestamp="1553083040590">
         <mark key="[" line="282" column="0" />
@@ -103,6 +112,12 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
+      <file name="/fragment.go" timestamp="1554224176520">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/yay_store.product_inventory_shipment [store]" timestamp="1554307624919">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ansible/roles/galaxy/tasks/main.yml" timestamp="1554366243355">
         <mark key="[" line="13" column="19" />
         <mark key="]" line="13" column="19" />
@@ -111,6 +126,9 @@
       </file>
       <file name="$USER_HOME$/go/src/galaxy/config/config.go" timestamp="1554380016704">
         <mark key="'" line="5" column="4" />
+      </file>
+      <file name="/yaypi.dom_domain [yaypi]" timestamp="1554302701139">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ansible/projects/galaxy/deploy.yml" timestamp="1554365637472">
         <mark key="[" line="39" column="43" />
@@ -137,6 +155,9 @@
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="34" />
       </file>
+      <file name="vim_settings.xml" timestamp="1554380978953">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/tardis/rpc/client.go" timestamp="1554287568707">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -148,6 +169,12 @@
         <mark key="]" line="66" column="30" />
         <mark key="." line="66" column="30" />
         <mark key="^" line="66" column="30" />
+      </file>
+      <file name="/yaypi.voip_number_transfer_technical [yaypi]" timestamp="1554307936576">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/yay_store.product_inventory [store]" timestamp="1554307643833">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/HTML Fragment (page.go:2642).html" timestamp="1554374517311">
         <mark key="[" line="0" column="0" />
@@ -189,11 +216,20 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="/a.sql" timestamp="1554296520840">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/yay_store.core_order [store]" timestamp="1554296874485">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/galaxy/yaypi/api.go" timestamp="1553177064736">
         <mark key="[" line="149" column="100" />
         <mark key="]" line="150" column="19" />
         <mark key="^" line="150" column="19" />
         <mark key="." line="150" column="19" />
+      </file>
+      <file name="/yay_store.core_order_item [store]" timestamp="1554297111670">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/galaxy/db/api.go" timestamp="1554374028065">
         <mark key="'" line="749" column="27" />
@@ -213,6 +249,9 @@
         <mark key="]" line="8" column="22" />
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
+      </file>
+      <file name="/yaypi.voip_number_transfer [yaypi]" timestamp="1554307849947">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1554297127904">
         <mark key="[" line="0" column="0" />
@@ -267,6 +306,9 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
+      <file name="/yay_store.core_order_shipping [store]" timestamp="1554296419161">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/tardis/rpc/chat.proto" timestamp="1554286465751">
         <mark key="'" line="9" column="37" />
         <mark key="[" line="13" column="3" />
@@ -294,6 +336,9 @@
         <mark key="." line="176" column="60" />
         <mark key="^" line="176" column="60" />
       </file>
+      <file name="/yay_store.core_order_return_item_barcode [store]" timestamp="1554297881193">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ansible/projects/galaxy/host_vars/aura-eu-west1-d1" timestamp="1554366047592">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="20" />
@@ -305,6 +350,9 @@
         <mark key="]" line="2007" column="41" />
         <mark key="^" line="2007" column="3" />
         <mark key="." line="2007" column="0" />
+      </file>
+      <file name="/yay_store.core_order_item_serial [store]" timestamp="1554297000080">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/galaxy/rtp/session.go" timestamp="1542204343539">
         <mark key="[" line="219" column="0" />
