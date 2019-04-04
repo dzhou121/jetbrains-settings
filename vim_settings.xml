@@ -20,6 +20,9 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/ansible/roles/web/files/yay.com.crt" timestamp="1554395547672">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="diff.xml" timestamp="1554368262878">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,7 +60,9 @@
       <file name="/yay_store.core_order [store]" timestamp="1554296874485">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ansible/roles/ssl/files/var_lib_yay_yay.com.crt" timestamp="1554394409827" />
+      <file name="$USER_HOME$/ansible/roles/ssl/files/var_lib_yay_yay.com.crt" timestamp="1554395541071">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/yay_store.core_order_item [store]" timestamp="1554297111670">
         <mark key="[" line="0" column="0" />
       </file>
@@ -70,10 +75,10 @@
       <file name="/dummy.sql" timestamp="1554297127904">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554371352048">
+      <file name="/Dummy.txt" timestamp="1554395592749">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/ansible/projects/galaxy/host_vars/aura-eu-west1-c1" timestamp="1554366018154">
         <mark key="[" line="6" column="20" />
@@ -110,10 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" />
-      <jump line="45" column="0" filename="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" />
-      <jump line="34" column="5" filename="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" />
-      <jump line="113" column="26" filename="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" />
       <jump line="100" column="47" filename="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" />
       <jump line="17" column="19" filename="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" />
       <jump line="0" column="0" filename="$USER_HOME$/cosmos/bifrost/conn.go" />
@@ -204,12 +205,16 @@
       <jump line="1656" column="45" filename="$USER_HOME$/web-team/yay_team/db/net_xl/models.py" />
       <jump line="3999" column="61" filename="$USER_HOME$/web-team/yay_team/db/net_xl/models.py" />
       <jump line="10" column="0" filename="$USER_HOME$/ansible/roles/ssl/files/var_lib_yay_yay.com.key" />
-      <jump line="0" column="0" filename="$USER_HOME$/ansible/roles/ssl/files/var_lib_yay_yay.com.crt" />
       <jump line="47" column="0" filename="$USER_HOME$/ansible/roles/ssl/files/var_lib_yay_yay.com.crt" />
       <jump line="34" column="0" filename="$USER_HOME$/ansible/roles/ssl/files/var_lib_yay_yay.com.crt" />
       <jump line="72" column="29" filename="$USER_HOME$/ansible/roles/ssl/files/var_lib_yay_yay.com.crt" />
       <jump line="82" column="0" filename="$USER_HOME$/ansible/roles/ssl/files/var_lib_yay_yay.com.crt" />
       <jump line="23" column="36" filename="$USER_HOME$/ansible/roles/ssl/files/var_lib_yay_yay.com.crt" />
+      <jump line="32" column="0" filename="$USER_HOME$/ansible/roles/web/files/yay.com.crt" />
+      <jump line="9" column="0" filename="$USER_HOME$/ansible/roles/ssl/files/var_lib_yay_yay.com.crt" />
+      <jump line="0" column="0" filename="$USER_HOME$/ansible/roles/ssl/files/var_lib_yay_yay.com.crt" />
+      <jump line="13" column="36" filename="$USER_HOME$/ansible/roles/web/files/yay.com.crt" />
+      <jump line="0" column="0" filename="$USER_HOME$/ansible/roles/web/files/yay.com.crt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
