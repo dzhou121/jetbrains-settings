@@ -9,6 +9,9 @@
         <mark key="^" line="140" column="5" />
         <mark key="." line="140" column="5" />
       </file>
+      <file name="$USER_HOME$/web-team/yay_team/templates/store/orders/order-details.html" timestamp="1554297866696">
+        <mark key="'" line="548" column="58" />
+      </file>
       <file name="$USER_HOME$/go/src/galaxy/dtls/conn.go" timestamp="1542203940662">
         <mark key="[" line="973" column="24" />
         <mark key="]" line="973" column="9" />
@@ -52,6 +55,9 @@
         <mark key="]" line="51" column="13" />
         <mark key="." line="51" column="13" />
         <mark key="^" line="51" column="13" />
+      </file>
+      <file name="$USER_HOME$/web-team/yay_team/db/net_xl/models.py" timestamp="1554297895274">
+        <mark key="'" line="3999" column="61" />
       </file>
       <file name="$USER_HOME$/cosmos/bifrost/service.go" timestamp="1554288409678">
         <mark key="'" line="45" column="5" />
@@ -103,17 +109,20 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/go/src/galaxy/config/config.go" timestamp="1554380016704">
+        <mark key="'" line="5" column="4" />
+      </file>
       <file name="$USER_HOME$/ansible/projects/galaxy/deploy.yml" timestamp="1554365637472">
         <mark key="[" line="39" column="43" />
         <mark key="]" line="39" column="43" />
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="43" />
       </file>
-      <file name="$USER_HOME$/go/src/galaxy/api/api.go" timestamp="1554375091307">
+      <file name="$USER_HOME$/go/src/galaxy/api/api.go" timestamp="1554379984597">
         <mark key="'" line="177" column="5" />
-        <mark key="[" line="955" column="0" />
-        <mark key="]" line="955" column="0" />
-        <mark key="." line="955" column="0" />
+        <mark key="[" line="957" column="0" />
+        <mark key="]" line="957" column="0" />
+        <mark key="." line="957" column="0" />
         <mark key="^" line="296" column="42" />
       </file>
       <file name="$USER_HOME$/cosmos/bifrost/chat_test.go" timestamp="1554310047754">
@@ -216,10 +225,11 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/go/src/galaxy/cmd/galaxy-api/galaxy-api.go" timestamp="1554314095619">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
+      <file name="$USER_HOME$/go/src/galaxy/cmd/galaxy-api/galaxy-api.go" timestamp="1554380060555">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="26" column="5" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="9" />
       </file>
       <file name="$USER_HOME$/go/src/galaxy/api/rpc.go" timestamp="1554287692514">
         <mark key="'" line="110" column="0" />
@@ -309,7 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" />
       <jump line="28" column="39" filename="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" />
       <jump line="78" column="19" filename="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" />
       <jump line="36" column="0" filename="$USER_HOME$/cosmos/bifrost/jsonrpc2/jsonrpc2.go" />
@@ -409,49 +418,50 @@
       <jump line="930" column="39" filename="$USER_HOME$/go/src/galaxy/api/api.go" />
       <jump line="28" column="0" filename="$USER_HOME$/go/src/galaxy/api/api.go" />
       <jump line="177" column="5" filename="$USER_HOME$/go/src/galaxy/api/api.go" />
+      <jump line="5" column="4" filename="$USER_HOME$/go/src/galaxy/config/config.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL3NpcF91c2Vycy97c2lwdXNlcl91dWlkfS9hcHAiLCBzaXB1c2VyQXBwSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL2Nkci97Y2RyfSIsIGNkckhhbmRsZXIpCglyLkhhbmRsZUZ1bmMoIi92MS9jZHIve2Nkcn0vcmVjb3JkaW5nIiwgY2RyUmVjb3JkaW5nSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL3F1ZXVlL3txdWV1ZX0vc3RhdHMiLCBxdWV1ZVN0YXRzSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL3F1ZXVlL3N0YXRzIiwgcXVldWVHcm91cFN0YXRzSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL2Nkcl9wYWdlZCIsIGNkclBhZ2VIYW5kbGVyKQo=</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCWZtdC5QcmludGxuKGVycikKCQlyZXR1cm4KCX0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pirnl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCYXJjb2RlUmVjb3JkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ci8vIE5ld0FQSVNlcnZlciBjcmVhdGVzIGEgbmV3IGFwaSBzZXJ2ZXIKZnVuYyBOZXdBUElTZXJ2ZXIoKSB7CglyIDo9IG11eC5OZXdSb3V0ZXIoKQoJci5IYW5kbGVGdW5jKCIvY29uZmVyZW5jZSIsIGNvbmZlcmVuY2UpCglyLkhhbmRsZUZ1bmMoIi92MS9wYXJraW5nX3Nsb3Qve3Bhcmtpbmdfc2xvdH0iLCBwYXJraW5nU2xvdEhhbmRsZXIpCglyLkhhbmRsZUZ1bmMoIi92MS9mYXgve2ZheF91dWlkfS9zZW5kIiwgZmF4U2VuZEhhbmRsZXIpCglyLkhhbmRsZUZ1bmMoIi92MS9zaXBfdXNlcnMve3NpcHVzZXJfdXVpZH0vYXBwIiwgc2lwdXNlckFwcEhhbmRsZXIpCglyLkhhbmRsZUZ1bmMoIi92MS9jZHIve2Nkcn0iLCBjZHJIYW5kbGVyKQoJci5IYW5kbGVGdW5jKCIvdjEvY2RyL3tjZHJ9L3JlY29yZGluZyIsIGNkclJlY29yZGluZ0hhbmRsZXIpCglyLkhhbmRsZUZ1bmMoIi92MS9xdWV1ZS97cXVldWV9L3N0YXRzIiwgcXVldWVTdGF0c0hhbmRsZXIpCglyLkhhbmRsZUZ1bmMoIi92MS9xdWV1ZS9zdGF0cyIsIHF1ZXVlR3JvdXBTdGF0c0hhbmRsZXIpCglyLkhhbmRsZUZ1bmMoIi92MS9jZHJfcGFnZWQiLCBjZHJQYWdlSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL2NhbGwiLCBjYWxsSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL2F1dGgiLCBhdXRoKQoJci5IYW5kbGVGdW5jKCIvaGVhbHRoLWNoZWNrIiwgaGVhbHRoQ2hlY2spCglodHRwLkhhbmRsZSgiLyIsIHIpCglmbXQuUHJpbnRsbihodHRwLkxpc3RlbkFuZFNlcnZlKCIwLjAuMC4wOjgxMjMiLCBuaWwpKQp9Cg==</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCWZtdC5QcmludGxuKGVycikKCQlyZXR1cm4KCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL3NpcF91c2Vycy97c2lwdXNlcl91dWlkfS9hcHAiLCBzaXB1c2VyQXBwSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL2Nkci97Y2RyfSIsIGNkckhhbmRsZXIpCglyLkhhbmRsZUZ1bmMoIi92MS9jZHIve2Nkcn0vcmVjb3JkaW5nIiwgY2RyUmVjb3JkaW5nSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL3F1ZXVlL3txdWV1ZX0vc3RhdHMiLCBxdWV1ZVN0YXRzSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL3F1ZXVlL3N0YXRzIiwgcXVldWVHcm91cFN0YXRzSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL2Nkcl9wYWdlZCIsIGNkclBhZ2VIYW5kbGVyKQo=</text>
+        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL2ZheC97ZmF4X3V1aWR9L3NlbmQiLCBmYXhTZW5kSGFuZGxlcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL2F1dGgiLCBhdXRoKQo=</text>
+        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL3NpcF91c2Vycy97c2lwdXNlcl91dWlkfS9hcHAiLCBzaXB1c2VyQXBwSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL2Nkci97Y2RyfSIsIGNkckhhbmRsZXIpCglyLkhhbmRsZUZ1bmMoIi92MS9jZHIve2Nkcn0vcmVjb3JkaW5nIiwgY2RyUmVjb3JkaW5nSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL3F1ZXVlL3txdWV1ZX0vc3RhdHMiLCBxdWV1ZVN0YXRzSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL3F1ZXVlL3N0YXRzIiwgcXVldWVHcm91cFN0YXRzSGFuZGxlcikKCXIuSGFuZGxlRnVuYygiL3YxL2Nkcl9wYWdlZCIsIGNkclBhZ2VIYW5kbGVyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL3Bhcmtpbmdfc2xvdC97cGFya2luZ19zbG90fSIsIHBhcmtpbmdTbG90SGFuZGxlcikK</text>
+        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL2F1dGgiLCBhdXRoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL2Nkci97Y2RyfSIsIGNkckhhbmRsZXIpCg==</text>
+        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL3Bhcmtpbmdfc2xvdC97cGFya2luZ19zbG90fSIsIHBhcmtpbmdTbG90SGFuZGxlcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL3NpcF91c2Vycy97c2lwdXNlcl91dWlkfS9hcHAiLCBzaXB1c2VyQXBwSGFuZGxlcikK</text>
+        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL2Nkci97Y2RyfSIsIGNkckhhbmRsZXIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL3Bhcmtpbmdfc2xvdC97cGFya2luZ19zbG90fSIsIHBhcmtpbmdTbG90SGFuZGxlcikK</text>
+        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL3NpcF91c2Vycy97c2lwdXNlcl91dWlkfS9hcHAiLCBzaXB1c2VyQXBwSGFuZGxlcikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL3Bhcmtpbmdfc2xvdC97cGFya2luZ19zbG90fSIsIHBhcmtpbmdTbG90SGFuZGxlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL2NvbmZlcmVuY2UiLCBjb25mZXJlbmNlKQo=</text>
+        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL3YxL3Bhcmtpbmdfc2xvdC97cGFya2luZ19zbG90fSIsIHBhcmtpbmdTbG90SGFuZGxlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gTmV3QVBJU2VydmVyIGNyZWF0ZXMgYSBuZXcgYXBpIHNlcnZlcgo=</text>
+        <text encoding="base64">CXIuSGFuZGxlRnVuYygiL2NvbmZlcmVuY2UiLCBjb25mZXJlbmNlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoDeclaration</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -497,8 +507,8 @@
         <entry>action GotoFile</entry>
         <entry>action GotoNextError</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>action GotoDeclaration</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
