@@ -5,6 +5,7 @@
       <mapping pattern="aura-eu-west1-b1" type="PLAIN_TEXT" />
       <mapping pattern="go.mod" type="PLAIN_TEXT" />
       <mapping pattern="aura-eu-west1-d1" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
