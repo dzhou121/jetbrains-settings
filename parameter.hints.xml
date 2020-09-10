@@ -5,5 +5,11 @@
       <blacklist language="JavaScript" />
       <blacklist language="Go" />
     </blacklists>
+    <disabledLanguages>
+      <language id="TypeScript" />
+      <language id="JavaScript" />
+      <language id="ObjectiveC" />
+      <language id="SQL" />
+    </disabledLanguages>
   </component>
 </application>
