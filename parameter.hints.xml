@@ -5,5 +5,12 @@
       <blacklist language="JavaScript" />
       <blacklist language="Go" />
     </blacklists>
+    <disabledLanguages>
+      <language id="TypeScript" />
+      <language id="Rust" />
+      <language id="JavaScript" />
+      <language id="go" />
+      <language id="SQL" />
+    </disabledLanguages>
   </component>
 </application>
