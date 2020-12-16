@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="aura-eu-west1-c1" type="PLAIN_TEXT" />
       <mapping pattern="aura-eu-west1-b1" type="PLAIN_TEXT" />
