@@ -7,8 +7,9 @@
     </blacklists>
     <disabledLanguages>
       <language id="TypeScript" />
+      <language id="Rust" />
       <language id="JavaScript" />
-      <language id="ObjectiveC" />
+      <language id="go" />
       <language id="SQL" />
     </disabledLanguages>
   </component>
