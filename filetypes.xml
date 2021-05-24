@@ -1,12 +1,16 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
-      <mapping pattern="aura-eu-west1-b1" type="PLAIN_TEXT" />
-      <mapping pattern="aura-eu-west1-d1" type="PLAIN_TEXT" />
       <mapping pattern="aura-eu-west1-c1" type="PLAIN_TEXT" />
-      <mapping pattern="go.mod" type="PLAIN_TEXT" />
+      <mapping pattern="aura-eu-west1-b1" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="aura-eu-west1-d1" type="PLAIN_TEXT" />
       <mapping ext="capnp" type="PLAIN_TEXT" />
+      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
+      <mapping ext="yaml" type="YAML_EX" />
+      <mapping ext="yml" type="YAML_EX" />
+      <removed_mapping pattern="go.mod" type="go.mod" />
     </extensionMap>
   </component>
 </application>
