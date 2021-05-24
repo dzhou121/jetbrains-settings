@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3045f196-ff17-4a6b-9aed-4a64faac898d" name="Remote (3045f196-ff17-4a6b-9aed-4a64faac898d)" url="http:///">
+        <fileTransfer accessType="SFTP" sshConfigId="b05627e5-f4c9-4d99-ba60-6e1095a78ad9" sshConfig="Remote (3045f196-ff17-4a6b-9aed-4a64faac898d)" />
+      </webServer>
+    </option>
+  </component>
+</application>

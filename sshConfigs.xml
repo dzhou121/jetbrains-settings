@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="ansible.yay.com" id="5937dd9c-067c-48ef-bbe2-1cdc9d22ed44" port="22" customName="Remote (3045f196-ff17-4a6b-9aed-4a64faac898d)" nameFormat="CUSTOM" username="dz">
+        <option name="customName" value="Remote (3045f196-ff17-4a6b-9aed-4a64faac898d)" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
